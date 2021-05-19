@@ -1,0 +1,35 @@
+*   {
+    font-family: cursive;
+    margin: 0px;
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.nav {
+    background-color: gray;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-title  {
+    padding: 20px;
+    flex: 70%;
+}
+
+.nav-links   {
+    padding: 20px 0px;
+    display: flex;
+    /* align-items: flex-end; */
+    justify-content: space-evenly;
+    list-style: none;
+    flex: 30%;
+}
+
+.btn    {
+    background-color: aquamarine;
+    box-shadow: 3px 3px;
+    border-radius: 5px;
+    border: 5px;
+    color: black;
+}
