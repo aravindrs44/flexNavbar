@@ -20,7 +20,6 @@
 .nav-links   {
     padding: 20px 0px;
     display: flex;
-    /* align-items: flex-end; */
     justify-content: space-evenly;
     list-style: none;
     flex: 30%;
